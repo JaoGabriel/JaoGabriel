@@ -1,5 +1,6 @@
 # Ola 👋
 - Sou o Joao Gabriel 
+- Tecnico em informatica
 - Desenvolvedor backend
 - Entusiasta de Inteligencia artificial & outras tecnologias
 
