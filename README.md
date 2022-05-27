@@ -1,7 +1,7 @@
 # Ola 👋
-### Sou o Joao Gabriel 
-### Desenvolvedor backend
-### Entusiasta de Inteligencia artificial e outras tecnologias
+- Sou o Joao Gabriel 
+- Desenvolvedor backend
+- Entusiasta de Inteligencia artificial & outras tecnologias
 
 
 <div align="center">
