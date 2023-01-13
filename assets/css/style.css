@@ -134,8 +134,6 @@ h6 {
 @media (max-width: 991px) {
   #header {
     width: 300px;
-    background: #000000;
-    border-right: 1px solid #000000;
     left: -300px;
   }
 }
@@ -178,7 +176,7 @@ h6 {
   transition: 0.3s;
   font-size: 15px;
   border-radius: 50px;
-  background: #ffffff;
+  background: #01FFFF;
   height: 56px;
   width: 100%;
   overflow: hidden;
@@ -206,7 +204,7 @@ h6 {
   .nav-menu a span,
   .nav-menu a:focus span {
     display: none;
-    color: rgb(0, 0, 0);
+    color: #ffffff;
   }
 }
 
@@ -214,21 +212,21 @@ h6 {
 .nav-menu .active,
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
-  color: rgb(0, 0, 0);
-  background: #01ffff;
+  color: #ffffff;
+  background: #068585;
 }
 
 .nav-menu a:hover span,
 .nav-menu .active span,
 .nav-menu .active:focus span,
 .nav-menu li:hover>a span {
-  color: rgb(0, 0, 0);
+  color: #ffffff;
 }
 
 .nav-menu a:hover,
 .nav-menu li:hover>a {
   width: 100%;
-  color: rgb(0, 0, 0);
+  color: #ffffff;
 }
 
 .nav-menu a:hover span,
@@ -256,7 +254,7 @@ h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #45505b;
+  color: #01FFFF;
 }
 
 .mobile-nav-active {
@@ -268,8 +266,8 @@ h6 {
 }
 
 .mobile-nav-active .mobile-nav-toggle {
-  color: rgb(0, 0, 0);
-  background-color: #01ffff;
+  color: #ffffff;
+  background-color: #068585;
 }
 
 /*--------------------------------------------------------------
@@ -278,7 +276,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top right no-repeat;
+  background: url("../img/wpp.jpg") top right no-repeat;
   background-size: cover;
   position: relative;
 }
